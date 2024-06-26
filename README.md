@@ -10,7 +10,7 @@ This is a simple and elegant to-do list application built using HTML, CSS, and J
 - **Remove Tasks**: Remove tasks by clicking the "Remove" button next to the task.
 - **Responsive Design**: The application is designed to look good on all devices.
   
-- ## Live Demo
+  ## Live Demo
   
 You can see a live demo and other work [here](https://yowsapk.com/).
 
